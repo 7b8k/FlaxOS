@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120" alt="FlaxOS"/>
+</p>
+
 # FlaxOS — 墨水屏智能终端系统
 
 面向墨水屏场景的轻量本地智能终端系统：以记忆卡学习为核心（类 Anki 的「知卡 FlaxCard」），辅以数独、番茄钟、联网天气等日常工具，全部深度适配电子墨水屏的显示特性。
