@@ -9,7 +9,7 @@
 ## ▶️ 实机演示
 
 当前演示运行于卧豆 Wodle（SF32LB525 · 3.68" 528×792 墨水屏），实机迭代至 v1.4.0。
-代码私有开发中，本仓库仅作成果展示。
+代码私有开发中，开源计划待定，本仓库仅作成果展示。
 
 https://github.com/user-attachments/assets/07e6bb3f-9b9e-43a7-a1fa-1a86fc13fc40
 
