@@ -72,4 +72,4 @@ Copyright (c) 2026 7b8k. All rights reserved.
 
 FlaxOS、FlaxCard、知卡为 7b8k 的项目名称。本仓库及 Releases 中的图片、视频、文案与固件仅用于 FlaxOS 展示；未经许可不得转载、二次分发或商用。
 
-This repository and its releases are proprietary. No permission is granted to copy, modify, publish, distribute, sublicense, or sell any part of this work without prior written permission from the copyright holder.
+完整许可见 [LICENSE](LICENSE)。
