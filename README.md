@@ -40,16 +40,20 @@
 [▶ 实机演示视频]
 
 <details>
-<summary>早期演示（v1.3.0）</summary>
+<summary>早期演示（v1.3.0）[点击展开]</summary>
 
 https://github.com/user-attachments/assets/07e6bb3f-9b9e-43a7-a1fa-1a86fc13fc40
 
 </details>
 
-| 知卡 | 不止学习 |
-|---|---|
-| ![选择题](screenshots/01-choice.png) | ![数独](screenshots/06-sudoku.png) |
-| ![古诗](screenshots/03-poem.png) | ![公式](screenshots/04-formula.png) |
+### v1.19 效果预览
+| 知卡 | 不止|学习  |
+|:---:|---:|:---|
+| ![翻页卡](mockups/flaxcard_cet6_back_shell.png) | ![数独](mockups/sudoku_home_shell.png) | ![番茄钟](mockups/pomodoro_resuming_shell.png) |
+| ![选择题](mockups/flaxcard_maozhongte_duoxuan_front_shell.png) | ![天气](mockups/weather_home_shell.png) | ![日历](mockups/calendar_shell.png) |
+| ![图片](mockups/flaxcard_ceshi_4_shell.png) | ![本地音乐](mockups/media_local_music_playing_shell.png) | ![网络电台](mockups/media_radio_playing_shell.png) |
+| ![公式](mockups/flaxcard_jifenqiudao_shell.png) | ![控制中心](mockups/control_center_shell.png) | [更多](mockups) |
+
 
 ## 当前状态
 
@@ -58,7 +62,7 @@ https://github.com/user-attachments/assets/07e6bb3f-9b9e-43a7-a1fa-1a86fc13fc40
 - 如果你在备考、背单词，欢迎提功能建议或使用场景。
 
 <details>
-<summary>名字与术语：FlaxOS、FlaxCard、SFC 是什么？</summary>
+<summary>名字与术语：FlaxOS、FlaxCard、SFC 是什么？[点击展开]</summary>
 
 - **FlaxOS**：Flax + OS。Flax 是亚麻，织布、造纸的原料；借“纸/墨”之意象，做一套适配墨水屏的系统。
 - **FlaxCard / 知卡**：Flax + Card，英文发音接近 flashcard；中文取“织”与“知”同音，叫「知卡」。它是 FlaxOS 里的学习模块。
